@@ -1,0 +1,18 @@
+streamlit
+requests
+openai==0.11.0
+tensorflow
+folium
+scikit-learn
+numpy
+pandas
+pydeck
+jinja2
+openmeteo-requests
+requests-cache 
+retry-requests
+keras
+plotly
+
+
+# pip install -r requirements.txt
